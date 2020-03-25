@@ -31,4 +31,4 @@ Data Dummy Peminjaman:
 ![Alt Text](https://github.com/nurisarahmi28/modul-0-2-h-UKL/blob/master/datadummy%20peminjaman.JPG)
 Data Dummy Petugas:
 ![Alt Text](https://github.com/nurisarahmi28/modul-0-2-h-UKL/blob/master/datadummy%20petugas.JPG)
-# *modul-2 masih eror,hehe(:*
+ *modul-2 masih eror,hehe(:*
